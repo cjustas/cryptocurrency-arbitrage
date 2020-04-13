@@ -1,8 +1,3 @@
-/**
- * Created by Manu Masson on 6/27/2017.
- *
- */
-
 'use strict';
 
 const request = require('request'), Promise = require("bluebird"); //request for pulling JSON from api. Bluebird for Promises.
